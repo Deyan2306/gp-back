@@ -1,0 +1,12 @@
+{
+  "name": "gp-gosho-ot-pochivka",
+  "version": "1.0.0",
+  "description": "GP — Гошо от Почивка official website",
+  "scripts": {
+    "start": "node server.js",
+    "dev":   "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
